@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Devlopment..
 - 🌱 I’m currently learning Full Stack Web Devlopment..
 - 📫 You can reach me by my ... Linkedin - https://www.linkedin.com/in/yuvraj-maurya-0b232b265/
-   Email - yuvraj95166@gmail.com
+   Email - yuvraj.maurya001@gmail.com
   
 
 <!---
